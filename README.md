@@ -1,10 +1,12 @@
 # UAS-PEMOGRAMAN-MOBILE-2
 
-#### Nama : ZULAEHA
+#### NAMA  : ZULAEHA
 
-#### NIM : 312210575
+#### NIM   : 312210575
 
-#### Kelas : TI.22.A5
+#### KELAS : TI.22.A5
+
+#### DOSEN PENGAMPU : EKO BUDIARTO, S.KOM., M.M
 
 # Daftar Isi
 
