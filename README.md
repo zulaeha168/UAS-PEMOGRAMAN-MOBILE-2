@@ -456,11 +456,13 @@ class _SignUpState extends State<SignUp> {
 
 ### Outputnya :
 
-![Screenshot 2024-07-09 111956](https://github.com/VivieZuliani/UAS_4_PemrogramanMobile2/assets/130271255/b266a692-b469-437e-9f90-35ad9a161267)
+![picture01](https://github.com/zulaeha168/UAS-PEMOGRAMAN-MOBILE-2/assets/130324650/cae2c57e-3a8c-4c52-bec7-64b43cab6495)
 
-![Screenshot 2024-07-09 112016](https://github.com/VivieZuliani/UAS_4_PemrogramanMobile2/assets/130271255/97de8be2-cecb-4fb5-888c-0a8124f1210b)
 
-![Screenshot 2024-07-09 112034](https://github.com/VivieZuliani/UAS_4_PemrogramanMobile2/assets/130271255/543f7518-55f0-4062-9757-56f2be8b7cda)
+![picture02](https://github.com/zulaeha168/UAS-PEMOGRAMAN-MOBILE-2/assets/130324650/f2800bd6-2084-42a9-8113-51d9542c348d)
+
+
+![picture03](https://github.com/zulaeha168/UAS-PEMOGRAMAN-MOBILE-2/assets/130324650/1c7f0603-9fbf-4a3e-9c66-d29712a3c50c)
 
 
 ### Presentasi via Youtube 
